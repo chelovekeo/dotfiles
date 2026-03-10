@@ -1,0 +1,17 @@
+# Global configuration file
+
+[system]
+shell = "zsh"
+theme = "dark-soft"
+prompt = "user $"
+
+[dev]
+languages = ["python", "javascript", "cpp", "csharp", "node"]
+tools = ["git", "docker", "ssh", "aws"]
+
+[ui]
+font = "Menlo"
+colors = "soft-dark"
+
+[automation]
+enabled = true
